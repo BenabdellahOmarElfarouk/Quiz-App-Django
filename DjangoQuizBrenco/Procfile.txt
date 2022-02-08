@@ -1,1 +1,0 @@
-web: gunicorn DjangoQuizBrenco.wsgi --log-file -
